@@ -24,8 +24,8 @@
 ## Статистика GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0ral0vii&show_icons=true&theme=radical)
-![Commits](https://img.shields.io/github/commit-activity/y/c0ral0vii/YourRepository)
-![Last Commit](https://img.shields.io/github/last-commit/c0ral0vii/YourRepository)
+![Commits](https://img.shields.io/github/commit-activity/y/c0ral0vii)
+![Last Commit](https://img.shields.io/github/last-commit/c0ral0vii)
 
 ---
 
